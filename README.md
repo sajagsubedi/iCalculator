@@ -1,17 +1,10 @@
-## Running React on Repl.it
+## Todo,s List
+ICalculator is an amazing wb app that works as an extreme fast and secure calculator on cloud. It is made with the help of the most in demand technology such as reactjs, styled-components and vite.
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
+If you want to run the web app locally, clone it and follow the given instructions
 ### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+- Hit npm i
+- Hit npm run dev
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+### Viewing it 
+You can visit to [https://myicalculator.netlify.app/](https://keepyourtodo.netlify.app/) to view it live.
