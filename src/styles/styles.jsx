@@ -23,7 +23,7 @@ export const CalculatorSec = styled.section`
   box-shadow: 2px 2px 5px 5px rgb(5, 30, 50);
   font-family: "Roboto", sans-serif;
   @media (min-width: ${({ theme }) => theme.responsive.largeMobile}) {
-    width: 60vw;
+    width: 65vw;
   }
   @media (min-width: ${({ theme }) => theme.responsive.tab}) {
     width: 50vw;
