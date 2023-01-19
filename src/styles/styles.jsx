@@ -10,8 +10,8 @@ export const Main = styled.main`
 `;
 
 export const CalculatorSec = styled.section`
-  width: 80vw;
-  height:78vh;
+  width: 85vw;
+  height:79vh;
   margin: 5px;
   background: ${({ theme }) => theme.colors.calthemeColor};
   display: grid;
