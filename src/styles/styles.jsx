@@ -6,12 +6,12 @@ export const Main = styled.main`
   align-items: center;
   min-height: 100vh;
   background: ${({ theme }) => theme.colors.themeColor};
-  width: 100vw;
+  min-width: 100vw;
 `;
 
 export const CalculatorSec = styled.section`
-  width: 85vw;
-  height:79vh;
+  width: 80vw;
+  height:75vh;
   margin: 5px;
   background: ${({ theme }) => theme.colors.calthemeColor};
   display: grid;
@@ -23,7 +23,7 @@ export const CalculatorSec = styled.section`
   box-shadow: 2px 2px 5px 5px rgb(5, 30, 50);
   font-family: "Roboto", sans-serif;
   @media (min-width: ${({ theme }) => theme.responsive.largeMobile}) {
-    width: 65vw;
+    width: 68w;
   }
   @media (min-width: ${({ theme }) => theme.responsive.tab}) {
     width: 50vw;

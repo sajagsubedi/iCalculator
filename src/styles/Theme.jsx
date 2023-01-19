@@ -7,7 +7,7 @@ export const theme = {
     color2: "#3b82f6",
   },
   responsive: {
-    largeMobile:"350px",
+    largeMobile:"400px",
     tab: "768px",
     desktop:"991px"
   },
