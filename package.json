@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "styled-components": "^5.3.6"
