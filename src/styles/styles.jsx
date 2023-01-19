@@ -26,8 +26,8 @@ export const CalculatorSec = styled.section`
     width: 68w;
   }
   @media (min-width: ${({ theme }) => theme.responsive.tab}) {
-    width: 50vw;
-    height: 83vh;
+    width: 55vw;
+    height: 55vh;
     border-radius: 30px;
     padding: 10px; 
     box-shadow: 5px 5px 5px 5px rgb(5, 30, 50);
